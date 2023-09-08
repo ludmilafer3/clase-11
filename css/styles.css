@@ -1,0 +1,30 @@
+.navbar {
+    background-color: pink;
+}
+
+#carouselExample{
+    width: 70%;
+    
+}
+
+.carousel-item img{
+    height: 500px;
+}
+
+i{
+    font-size: 30px;
+
+}
+
+.bi-linkedin{
+    color: blue;
+}
+
+.bi-instagram{
+    color: red;
+}
+
+.bi-tiktok{
+    color: green;
+}
+
