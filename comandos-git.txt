@@ -30,3 +30,12 @@ crea una rama con el nombre que le asigne
 9.git checkout nombrecualquiera
 sirve para moverse entre ramas
 
+10.git merge nombrerama
+fusiona los cambios de una rama dentro de la rama principal
+
+tener en cuenta que para hacer el merge:
+
+a- la rama no debe tener add ni commits pendientes
+b- debemos movernos a la rama principal. Pues la fusion o merge no 
+funciona desde una rama
+
