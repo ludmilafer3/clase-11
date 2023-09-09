@@ -21,3 +21,12 @@ genera un historial completo de los ultimos commit, usuario, fecha y hora de eso
 6.git log --oneline
 genera un historial mas resumido.
 
+7.git branch
+consulta las ramas disponibles
+
+8.git branch nombrecualquiera
+crea una rama con el nombre que le asigne
+
+9.git checkout nombrecualquiera
+sirve para moverse entre ramas
+
