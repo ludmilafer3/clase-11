@@ -12,4 +12,4 @@ para saber la situacion actual de mi proyectos
 3.git add .
 con este le decimos a git que guarde todos los archivos nuevos que detecte
 
-4.
+4.git commit
