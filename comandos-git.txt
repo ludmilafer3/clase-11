@@ -37,5 +37,6 @@ tener en cuenta que para hacer el merge:
 
 a- la rama no debe tener add ni commits pendientes
 b- debemos movernos a la rama principal. Pues la fusion o merge no 
-funciona desde una rama
+funciona desde una rama.
+
 
